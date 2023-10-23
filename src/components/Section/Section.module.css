@@ -1,0 +1,10 @@
+.main {
+  padding: 10px;
+}
+.mainTitle {
+  font-size: 20px;
+}
+.buttonsWrapper,
+.mainTitle {
+  margin-bottom: 10px;
+}
